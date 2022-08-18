@@ -8,6 +8,8 @@ output:
 # ColeOR: R package for automating more effective and efficient processing of OR gene models. Developed with beetle genomes in mind :)
 **NOTE See the file https://github.com/radamsRHA/ColeOR/blob/master/ColeOR.pdf for detailed instructions**
 
+This package is currently under development by Rich Adams, Duane McKenna, Rob Mitchell, and Stephanie Haddad. Please contact us before using this package. (Rich Adams: radamsrha@gmail.com).
+
 ## Installing R package ColeOR from github
 The R package ColeOR is freely available to download and distribute from github <https://github.com/radamsRHA/ColeOR/>. To install and load ColeOR, you must first install the R package `devtools`, 
 
